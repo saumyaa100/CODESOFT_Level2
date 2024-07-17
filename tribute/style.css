@@ -1,0 +1,81 @@
+*{
+margin:0 0 10px 0;
+}
+
+.head{
+    background-color: rgb(109, 109, 230);
+    text-align:center;
+    padding:20px 20px;
+    padding:0 20px 20px 20px ;
+    height:120px;
+    color:white;
+
+}
+
+h1{
+    padding-top:46px;
+    font-size: 45px;
+    text-shadow: 2px 2px 5px black;
+}
+
+img{
+    width: 210px;
+    height: 210px;
+    border-radius: 50%;
+    top:-45px;
+    position: relative;
+    box-shadow: 1px 1px 7px 8px white
+
+
+}
+.image{
+display:flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom:-185px;
+}
+.main{
+    display:flex;
+    flex-direction:column;
+    justify-content: center;
+    margin-top: 20px;
+    background-color: rgb(109, 109, 230);
+    height:auto;
+    width:60%;
+    margin:auto;
+    color:white;
+    border-radius:5px;
+    font-family: "Sora", sans-serif;
+}
+body{
+  
+    /* background-color:white; */
+    font-family: Arial, sans-serif;
+    color: #333;
+    background-color: #f0f0f0;
+    background-image: url('https://static.vecteezy.com/system/resources/previews/001/072/176/original/abstract-white-quilted-textured-seamless-pattern-vector.jpg');}
+.one{
+    padding-top:170px;
+}
+.one ,.two ,.three,.four, .five{
+    font-size: 20px;
+    padding-left:70px;
+    padding-right:70px;
+    padding-bottom: 35px;
+}
+
+.footer{
+    width:100%;
+    background-color: black;
+    color:white;
+    padding:20px;
+    text-align: center;
+    margin-bottom:-20px;
+    height:35px;
+    margin-top:50px;
+    font-size: 20px;
+}
+.heart {
+    font-size: 2rem;
+    color: red;
+}
